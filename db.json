@@ -23,6 +23,12 @@
       "day": "xs",
       "reminder": false,
       "id": 6
+    },
+    {
+      "text": "sdf",
+      "day": "sadfds",
+      "reminder": true,
+      "id": 7
     }
   ]
 }
