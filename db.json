@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Meet a friend",
+      "day": "27 december",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "fds",
+      "day": "dsfafd",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "fsd",
+      "day": "dsafds",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "xs",
+      "day": "xs",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
